@@ -11,7 +11,6 @@ psutil==7.0.0
 pycaw==20240210
 python-engineio==4.11.2
 python-socketio==5.12.1
-pywin32==308
 requests==2.32.3
 simple-websocket==1.1.0
 urllib3==2.3.0
